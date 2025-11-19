@@ -4,5 +4,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("FUNZIONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+        for (int i = 0; i < 5; i++)
+            System.out.println(i);
+
+        System.out.println("Zio Gabrio");
     }
 }
